@@ -1,0 +1,10 @@
+*{box-sizing:border-box}body{font-family:system-ui,-apple-system,sans-serif;margin:0;line-height:1.65;color:#233;background:#f7faf5;font-size:18px}
+header.site{background:#2e6b3a;padding:.7rem 1rem;display:flex;flex-wrap:wrap;gap:.5rem 1rem;align-items:center;justify-content:space-between}
+header.site a{color:#fff;text-decoration:none}.brand{font-weight:700;font-size:1.2rem}nav a{margin-left:1rem}nav a:hover{text-decoration:underline}
+main{max-width:760px;margin:auto;padding:1rem}h1,h2,h3{color:#2e6b3a;line-height:1.25}h2{border-bottom:2px solid #9c6;padding-bottom:.2rem;margin-top:2rem}
+a{color:#22592e}.btn{display:inline-block;background:#2e6b3a;color:#fff!important;padding:.5rem 1rem;border-radius:6px;text-decoration:none;margin:.2rem 0}.btn.alt{background:#b5652b}
+.hero{padding:1rem 0}.card,.item{background:#fff;border-radius:8px;padding:.8rem 1rem;margin:.7rem 0;box-shadow:0 1px 3px #0002}.card h3{margin:.2rem 0}
+.disc{background:#fffbe6;padding:.6rem;border-radius:6px;font-size:.9rem}.cta,.signup{background:#e8f3e1;border-radius:8px;padding:1rem;margin:1.5rem 0}
+.src{font-size:.9rem}footer.site{text-align:center;font-size:.85rem;padding:1.5rem 1rem;background:#e8efe4;margin-top:2rem}
+a.btn{color:#fff}.gear h1{margin-top:.5rem}
+@media(max-width:600px){body{font-size:17px}nav a{margin:0 .8rem 0 0}}
